@@ -1447,10 +1447,11 @@
     
     
     
+      
       "inventory": [
         {
           "inventory_id": "be3e67b3-7cb9-4c8d-b2bc-16fe03c15e43",
-          "product_id": "d0568f33-9f83-4b9f-ae0f-7bfe7205b1e9",
+          "product_id": "3db6f7c4-c9a7-47c5-9de9-c7b57f70cfe2",
           "location_id": "f9f1e2d8-d56a-4dff-bdb6-e1b4e3d5b748",
           "quantity_on_hand": 100,
           "quantity_allocated": 20,
@@ -1462,7 +1463,7 @@
         },
         {
           "inventory_id": "a7e8d6a8-b5f7-4825-9d87-3a7c6f8da1bc",
-          "product_id": "8a0c17d4-9ff9-4d7e-8c6d-0fbd8b31b3d6",
+          "product_id": "ac8bce5f-9f82-4b23-bf65-2d3e23247bfc",
           "location_id": "74d073f4-0349-4b71-b33d-41d62bfcdbbe",
           "quantity_on_hand": 200,
           "quantity_allocated": 50,
@@ -1474,7 +1475,7 @@
         },
         {
           "inventory_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
-          "product_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
+          "product_id": "b5b139b9-abb6-4859-b7b9-24ed7f58b94f",
           "location_id": "74d073f4-0349-4b71-b33d-41d62bfcdbbe",
           "quantity_on_hand": 300,
           "quantity_allocated": 30,
@@ -1486,7 +1487,7 @@
         },
         {
           "inventory_id": "a0be66e9-f9c1-44c9-80f9-0d2f5a5abf89",
-          "product_id": "8fe3a2a9-9ed4-4d96-8b3a-8c676aa9da68",
+          "product_id": "23d6fa36-10d7-4f49-81f1-2495f66a1e6e",
           "location_id": "74d073f4-0349-4b71-b33d-41d62bfcdbbe",
           "quantity_on_hand": 50,
           "quantity_allocated": 10,
@@ -1498,7 +1499,7 @@
         },
         {
           "inventory_id": "8fe3a2a9-9ed4-4d96-8b3a-8c676aa9da68",
-          "product_id": "f9f1e2d8-d56a-4dff-bdb6-e1b4e3d5b748",
+          "product_id": "4eacaf6a-c6fe-4c7f-8327-857db45b3db7",
           "location_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
           "quantity_on_hand": 400,
           "quantity_allocated": 100,
@@ -1510,7 +1511,7 @@
         },
         {
           "inventory_id": "dfebc0b2-302b-4183-baff-567e5fcac4b9",
-          "product_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d",
+          "product_id": "7f7c4c44-e70a-4c84-8467-bb8d9f9bb7ae",
           "location_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d",
           "quantity_on_hand": 600,
           "quantity_allocated": 200,
@@ -1522,7 +1523,7 @@
         },
         {
           "inventory_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d",
-          "product_id": "8fe3a2a9-9ed4-4d96-8b3a-8c676aa9da68",
+          "product_id": "cd58691a-8a3b-4c85-8c43-bd04f58e7f3b",
           "location_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
           "quantity_on_hand": 250,
           "quantity_allocated": 60,
@@ -1534,7 +1535,7 @@
         },
         {
           "inventory_id": "b1fa56e2-4821-45f4-a9b1-b8b43c5f19ef",
-          "product_id": "f9f1e2d8-d56a-4dff-bdb6-e1b4e3d5b748",
+          "product_id": "e63edb76-b07f-4d6b-a8f0-cf0638f5ab55",
           "location_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
           "quantity_on_hand": 800,
           "quantity_allocated": 150,
@@ -1546,7 +1547,7 @@
         },
         {
           "inventory_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d",
-          "product_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a",
+          "product_id": "1b8e274d-6595-4fbe-8ff5-7d7b8cd4fe6e",
           "location_id": "f9f1e2d8-d56a-4dff-bdb6-e1b4e3d5b748",
           "quantity_on_hand": 900,
           "quantity_allocated": 200,
