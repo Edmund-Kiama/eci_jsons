@@ -2089,93 +2089,93 @@
       "order_items": [
         {
           "order_item_id": "1c35d30c-dbc0-47ed-9be9-3a27d7278e6b",
-          "order_id": "a4d16c87-b021-4d84-b62f-dbf4bcb76fa4",
-          "product_id": "93f1a2b8-5e3b-4856-9b19-929663a7a2f4",
+          "order_id": "b392d6fb-ec2b-4ec8-a930-2f7d1c4e35fd",
+          "product_id": "3db6f7c4-c9a7-47c5-9de9-c7b57f70cfe2",
           "quantity": 10,
           "unit_weight": 2.5,
           "unit_volume": 0.1,
           "handling_instructions": "Handle with care, fragile item",
-          "inventory_source_id": "73f9c76e-dcd2-4cc1-a684-dc183c0b3d77"
+          "inventory_source_id": "be3e67b3-7cb9-4c8d-b2bc-16fe03c15e43"
         },
         {
           "order_item_id": "2d65727d-9ad4-41b5-97d1-c8f95a9124cf",
-          "order_id": "73f3ab7e-d9b6-4a92-b378-9aee77d578d6",
-          "product_id": "e62c5c84-bc9e-4678-90a1-3f1c9f94d342",
+          "order_id": "de398fb7-b885-45b7-9b6f-98fc347c081b",
+          "product_id": "ac8bce5f-9f82-4b23-bf65-2d3e23247bfc",
           "quantity": 5,
           "unit_weight": 1.8,
           "unit_volume": 0.05,
           "handling_instructions": "Perishable, store in cool area",
-          "inventory_source_id": "9ab15bfa-74c0-4c99-b8b7-4b396573c124"
+          "inventory_source_id": "a7e8d6a8-b5f7-4825-9d87-3a7c6f8da1bc"
         },
         {
           "order_item_id": "9edaa7cc-4f4d-4fd1-a02a-bd1661a83d5b",
-          "order_id": "1e56fcb9-8b87-4128-bc6a-16f98bfa915b",
-          "product_id": "f09a9a31-c253-489e-bdc3-bfa36a73523e",
+          "order_id": "a1620a8b-e64b-4b5b-b72d-3e4d3f75858c",
+          "product_id": "b5b139b9-abb6-4859-b7b9-24ed7f58b94f",
           "quantity": 2,
           "unit_weight": 3.2,
           "unit_volume": 0.2,
           "handling_instructions": "Keep upright",
-          "inventory_source_id": "276e7a23-6a6b-4973-b535-ff5bb7a04a32"
+          "inventory_source_id": "7e4c9a59-9c6a-45b7-b44d-17f647cb0c5a"
         },
         {
           "order_item_id": "b4d5ea12-7a34-44c9-9ad0-ea20fe242b70",
-          "order_id": "b4d5ea12-7a34-44c9-9ad0-ea20fe242b70",
-          "product_id": "293f5d8a-8f72-4202-9d88-bcfa03a71056",
+          "order_id": "7c9d0848-d9f5-4905-8e80-dac3b4d7f064",
+          "product_id": "23d6fa36-10d7-4f49-81f1-2495f66a1e6e",
           "quantity": 50,
           "unit_weight": 1.0,
           "unit_volume": 0.3,
           "handling_instructions": "Do not stack high",
-          "inventory_source_id": "d7dce4b8-49e3-4c89-bb7b-36b93a219303"
+          "inventory_source_id": "a0be66e9-f9c1-44c9-80f9-0d2f5a5abf89"
         },
         {
           "order_item_id": "c2133ee7-98c7-4b7a-b517-64907b5a8fa8",
-          "order_id": "f907b21b-9f73-4c96-b5de-c1cc3407d7f4",
-          "product_id": "9b1be0f9-90ed-4bb6-ae5b-cf6c47bb8c79",
+          "order_id": "f9b23856-80b1-45a2-8f49-b1c9f570f569",
+          "product_id": "4eacaf6a-c6fe-4c7f-8327-857db45b3db7",
           "quantity": 20,
           "unit_weight": 5.0,
           "unit_volume": 0.15,
           "handling_instructions": "Fragile, keep in original packaging",
-          "inventory_source_id": "f5a6743e-0ec4-4c55-8a7b-ff25b7367cd7"
+          "inventory_source_id": "8fe3a2a9-9ed4-4d96-8b3a-8c676aa9da68"
         },
         {
           "order_item_id": "3a709fb7-09e7-49d0-8e51-381052c8b840",
-          "order_id": "4176c1a3-d939-465f-b420-9f1de6a7a0e4",
-          "product_id": "8e2b7922-0521-4066-8647-daf4b2a839e6",
+          "order_id": "b836effd-0357-41b4-9078-b65e4c63d1b9",
+          "product_id": "7f7c4c44-e70a-4c84-8467-bb8d9f9bb7ae",
           "quantity": 100,
           "unit_weight": 0.8,
           "unit_volume": 0.05,
           "handling_instructions": "Store in dry, cool conditions",
-          "inventory_source_id": "9057f4d9-bdc5-4182-91be-8a07f2718b28"
+          "inventory_source_id": "dfebc0b2-302b-4183-baff-567e5fcac4b9"
         },
         {
           "order_item_id": "6e10c4c1-b4da-4d7c-9a7f-56e4d1d84863",
-          "order_id": "9e8db2f8-dab4-4fc0-826e-1ad0c0da724d",
-          "product_id": "e6c6e56c-b36a-496a-a2b6-50d7ed395f7a",
+          "order_id": "9e4e73db-22e2-492d-b38b-2c6cdca0a2ea",
+          "product_id": "cd58691a-8a3b-4c85-8c43-bd04f58e7f3b",
           "quantity": 15,
           "unit_weight": 2.0,
           "unit_volume": 0.25,
           "handling_instructions": "Keep away from direct sunlight",
-          "inventory_source_id": "d106db4e-8cb9-4ea9-9e0e-0fe3db206592"
+          "inventory_source_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d"
         },
         {
           "order_item_id": "cd85800a-3f6c-475a-ae07-5d61ba896e6f",
-          "order_id": "c118a70a-8e2f-4875-b3b5-77a611d1572b",
-          "product_id": "b850e5ad-299d-456d-a1f3-b8b466fb3e4f",
+          "order_id": "7f20a839-94d1-45fc-bf97-209169fd6491",
+          "product_id": "e63edb76-b07f-4d6b-a8f0-cf0638f5ab55",
           "quantity": 25,
           "unit_weight": 4.5,
           "unit_volume": 0.4,
           "handling_instructions": "Do not expose to moisture",
-          "inventory_source_id": "f9b11be2-609d-4a77-92a7-60c9e9a4c920"
+          "inventory_source_id": "b1fa56e2-4821-45f4-a9b1-b8b43c5f19ef"
         },
         {
           "order_item_id": "9295b45c-f842-42b8-80fc-d273877f7755",
           "order_id": "b6f4104f-89a0-4973-8667-8d39d0de8b68",
-          "product_id": "4c86d8c2-64f1-40d5-b1c2-5be53b02a1cc",
+          "product_id": "1b8e274d-6595-4fbe-8ff5-7d7b8cd4fe6e",
           "quantity": 8,
           "unit_weight": 2.2,
           "unit_volume": 0.15,
           "handling_instructions": "Keep in a cool, dry place",
-          "inventory_source_id": "2da9b5b1-8f64-4264-a764-428d2f0674b3"
+          "inventory_source_id": "9a56c70a-8a85-42a3-b509-5c76fa982c1d"
         }
       ],
     
